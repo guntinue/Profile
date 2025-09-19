@@ -9,12 +9,14 @@
 - 항공정비공학
 - 안전관리
 
-###취미
+### 취미
 - 테니스
 - 서핑
 
 ### 최애
-<!-- Uploading "huchu.jpeg"... -->
+![Image](https://github.com/user-attachments/assets/7f698ea8-1511-425a-8fb1-860a73952135)
+
+
 
 
 
