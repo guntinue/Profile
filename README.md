@@ -1,21 +1,16 @@
 # Profile👺
+<!--
+**guntinue/guntinue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-| 이름 |---| 이건우 |
-| 나이 |---| 33 |
-| 이메일 |---| rjssn93@gmail.com |
+Here are some ideas to get you started:
 
-### 전공
-- 항공정비공학
-- 안전관리
-
-### 취미
-- 테니스
-- 서핑
-
-### 최애
-![Image](https://github.com/user-attachments/assets/7f698ea8-1511-425a-8fb1-860a73952135)
-
-
-
-
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
